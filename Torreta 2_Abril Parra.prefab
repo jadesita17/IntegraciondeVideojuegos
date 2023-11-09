@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &623512535012150638
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4151.354
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4151.354
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4151.354
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 214.72571
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -37
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -280.20474
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.23502271
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9719899
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 152.814
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2682167134973850427, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d63a09356c523ed4eb43ecb8ef516d74, type: 2}
+    - target: {fileID: 919132149155446097, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_Name
+      value: Torreta 2_Abril Parra
+      objectReference: {fileID: 0}
+    - target: {fileID: 7484468418975526891, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d63a09356c523ed4eb43ecb8ef516d74, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dd0bf48cc5a4af649a7f9e7b73ed5f0c, type: 3}
